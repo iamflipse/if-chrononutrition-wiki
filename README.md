@@ -18,4 +18,5 @@ A curated wiki distilling:
 ./tools/mdbook build -d book
 git add -A && git commit -m "update" && git push origin main
 # republish gh-pages: check out orphan branch, move book/* to root, force push
+touch .nojekyll   # without it the Jekyll build fails on mdbook's JS/JSON assets
 ```
