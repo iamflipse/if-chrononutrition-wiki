@@ -1,0 +1,7 @@
+[book]
+title = "Chrononutrition & Intermittent Fasting Wiki"
+authors = ["iamflipse"]
+description = "Curated wiki distilling Ma et al. (2026) Front. Nutr. 13:1964828 — chrononutritional mechanisms of intermittent fasting: gut microbiota–barrier axis, circadian re-synchronization, WAT browning, and SIRT3–AMPK–mTOR autophagy."
+
+[build]
+charset = "utf-8"
